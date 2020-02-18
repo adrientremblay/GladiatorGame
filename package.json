@@ -1,0 +1,27 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "Phaser3 Game",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrientremblay/GladiatorGame.git"
+  },
+  "author": "Adrien Tremblay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/adrientremblay/GladiatorGame/issues"
+  },
+  "homepage": "https://github.com/adrientremblay/GladiatorGame#readme",
+  "devDependencies": {
+    "live-server": "^1.2.1",
+    "phaser": "^3.22.0",
+    "ts-loader": "^6.2.1",
+    "typescript": "^3.7.5",
+    "webpack": "^4.41.6",
+    "webpack-cli": "^3.3.11"
+  }
+}
